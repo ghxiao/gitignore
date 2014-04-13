@@ -87,3 +87,14 @@ sympy-plots-for-*.tex/
 
 # xindy
 *.xdy
+
+# OS X temp files
+.DS_Store
+
+*.upa
+*.upb
+
+
+# Emacs temp files
+\#*
+.\#*
